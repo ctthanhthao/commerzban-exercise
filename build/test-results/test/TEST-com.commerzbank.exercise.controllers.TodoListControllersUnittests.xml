@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.commerzbank.exercise.controllers.TodoListControllersUnittests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-02-02T14:50:58" hostname="Thao-Chau-Mac.local" time="0.261">
+  <properties/>
+  <testcase name="getTodoListCreatedForTodayMeetException()" classname="com.commerzbank.exercise.controllers.TodoListControllersUnittests" time="0.194"/>
+  <testcase name="[1] defaultList=false, hasQueryParam=true, tasks=[playing, coding, studying, eating]" classname="com.commerzbank.exercise.controllers.TodoListControllersUnittests" time="0.034"/>
+  <testcase name="[2] defaultList=true, hasQueryParam=false, tasks=null" classname="com.commerzbank.exercise.controllers.TodoListControllersUnittests" time="0.006"/>
+  <system-out><![CDATA[2024-02-02T15:50:57.947+01:00  INFO 28686 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.commerzbank.exercise.controllers.TodoListControllersUnittests]: TodoListControllersUnittests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-02-02T15:50:57.972+01:00  INFO 28686 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.commerzbank.exercise.ExerciseApplication for test class com.commerzbank.exercise.controllers.TodoListControllersUnittests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-02-02T15:50:57.995+01:00  INFO 28686 --- [    Test worker] c.c.e.c.TodoListControllersUnittests     : Starting TodoListControllersUnittests using Java 17.0.9 with PID 28686 (started by macbook in /Users/macbook/Documents/Project/commerzbank-exercise)
+2024-02-02T15:50:57.995+01:00  INFO 28686 --- [    Test worker] c.c.e.c.TodoListControllersUnittests     : No active profile set, falling back to 1 default profile: "default"
+2024-02-02T15:50:58.393+01:00  INFO 28686 --- [    Test worker] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2024-02-02T15:50:58.394+01:00  INFO 28686 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2024-02-02T15:50:58.398+01:00  INFO 28686 --- [    Test worker] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2024-02-02T15:50:58.414+01:00  INFO 28686 --- [    Test worker] c.c.e.c.TodoListControllersUnittests     : Started TodoListControllersUnittests in 0.438 seconds (process running for 3.458)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

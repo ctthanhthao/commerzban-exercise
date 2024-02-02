@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.commerzbank.exercise.ExerciseApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-02T14:50:57" hostname="Thao-Chau-Mac.local" time="0.647">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.commerzbank.exercise.ExerciseApplicationTests" time="0.647"/>
+  <system-out><![CDATA[15:50:55.775 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.commerzbank.exercise.ExerciseApplicationTests]: ExerciseApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+15:50:55.866 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.commerzbank.exercise.ExerciseApplication for test class com.commerzbank.exercise.ExerciseApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.2)
+
+2024-02-02T15:50:56.186+01:00  INFO 28686 --- [    Test worker] c.c.exercise.ExerciseApplicationTests    : Starting ExerciseApplicationTests using Java 17.0.9 with PID 28686 (started by macbook in /Users/macbook/Documents/Project/commerzbank-exercise)
+2024-02-02T15:50:56.189+01:00  INFO 28686 --- [    Test worker] c.c.exercise.ExerciseApplicationTests    : No active profile set, falling back to 1 default profile: "default"
+2024-02-02T15:50:57.277+01:00  INFO 28686 --- [    Test worker] c.c.exercise.ExerciseApplicationTests    : Started ExerciseApplicationTests in 1.292 seconds (process running for 2.321)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

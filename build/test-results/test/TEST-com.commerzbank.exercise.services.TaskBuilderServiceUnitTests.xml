@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.commerzbank.exercise.services.TaskBuilderServiceUnitTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-02-02T14:50:58" hostname="Thao-Chau-Mac.local" time="0.02">
+  <properties/>
+  <testcase name="testBuildTaskList()" classname="com.commerzbank.exercise.services.TaskBuilderServiceUnitTests" time="0.02"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

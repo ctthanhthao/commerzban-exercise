@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.commerzbank.exercise.utilities.DateUtilsUnitTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-02-02T14:50:58" hostname="Thao-Chau-Mac.local" time="0.003">
+  <properties/>
+  <testcase name="convertLocalDateTimeToOffsetDateTime()" classname="com.commerzbank.exercise.utilities.DateUtilsUnitTests" time="0.001"/>
+  <testcase name="formatLocalDateTimeInYYYYMMdd()" classname="com.commerzbank.exercise.utilities.DateUtilsUnitTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
